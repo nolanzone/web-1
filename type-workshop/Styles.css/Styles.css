@@ -1,0 +1,63 @@
+body {background-color: purple
+    }
+
+.type1 {
+    color:aqua;
+    font-family: "Workbench", san-serif;
+    font-weight:900;
+    letter-spacing: normal;
+}
+
+.type2 {
+    color: azure;
+    font-family: "Doto", san-serif;
+    font-weight: 100;
+    letter-spacing: 10px;
+}
+
+.type3 {
+    color: beige;
+    font-family: "Kiwi Maru", serif;
+    font-weight:200;
+    font-size: x-large;
+}
+
+.type4 {
+    color: blueviolet;
+    font-family: "Unbounded", sans-serif;
+    font-weight:300;
+    text-align-last: right;
+}
+
+.type5 {
+    color: aquamarine;
+    font-family: "Yusei Magic", sans-serif;
+    font-weight:400;
+}
+.type6 {
+    color: aqua;
+    font-family: "Sour Gummy", sans-serif;
+    font-weight:500;
+}
+.type7 {
+    color: powderblue;
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-weight:600;
+}
+.type8 {
+    color: maroon;
+    font-family: "Monoton", sans-serif;
+    font-weight:700;
+    
+}
+.type9 {
+    color:darkturquoise;
+    font-family: "Rock Salt", cursive;
+    font-weight:800;
+}
+.type10 {
+    color: deeppink;
+    font-family: "BioRhyme Expanded", serif;
+    font-weight:900;
+    
+}
