@@ -1,0 +1,77 @@
+.yellow-container {
+    background-color: yellow;
+    width: 600px;
+    height: fit-content;
+    padding: 10px;
+}
+
+.green-container {
+    background-color: limegreen;
+    width: 500px;
+    height: 150px;
+    padding: 15px;
+    margin: 15px auto;
+}
+.aqua-container {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+.rosybrown-container {
+    background-color: rosybrown;
+    width: 150px;
+    height: 150px;
+    float: right;
+    text-align: center;
+}
+
+.grey-container {
+    background-color: cadetblue;
+    width: 500px;
+    padding: 15px;
+    margin: 15px auto;
+}
+.beige-container {
+    background-color: beige;
+    width: 150px;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+.black-container {
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+}
+.orange-container {
+    background-color: orange;
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: .01px;
+    clear: both;
+}
+.brown-container {
+    background-color: saddlebrown;
+    width: 500px;
+    padding: 15px;
+    margin: 15px auto;
+    color: white;
+}
+
+.purple-container {
+    background-color: purple;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    text-align: center;
+}
+
