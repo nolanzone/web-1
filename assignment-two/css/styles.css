@@ -1,0 +1,46 @@
+.wheat-container {
+    background-color: wheat;
+    width: fit-content;
+    height: 500px;
+    margin: 25px auto;
+    padding: 10px;
+}
+.header {
+    color: darkslateblue;
+    text-align: center;
+    font-size: 40pt;
+}
+.black-container {
+    background-color: black;
+    width: 100px;
+    height: 300px;
+    color: white;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    align-content: center;
+    margin: 5px
+}
+.right-container {
+display: inline-block;
+}
+.photo {
+    width: 100px;
+    height: 100px;
+    float: right;
+    clear: right;
+    margin: 5px
+    
+}
+.photo {
+    width: 100px;
+    height: 100px;
+    float: right;
+    object-fit: cover;
+}
+.photo {
+    width: 100px;
+    height: 100px;
+    float: right;
+    object-fit: cover
+}
