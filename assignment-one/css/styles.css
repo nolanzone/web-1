@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    padding-left: 30px;
+    padding-bottom: 10px;
+    justify-content: flex-start;
+    width: 100px;
+    height: auto;
+}
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-right: 20px;
+    border-bottom: 20px solid #212f51;
+}
+.nav-a a {
+    justify-content: right;
+    font-family: "Gilda Display", serif;
+    text-decoration: none;
+    color: #212f51;
+    font-size: smaller;
+    letter-spacing: -0.5px;
+    padding-left: 10px;
+}
+.nav-a {
+    padding-right: 30px;
+}
+.hero {
+    width: 100%;
+    height: 200px;
+    background-color: #212f51;
+    background-size: cover;
+    background-image: url(../assets/banner-img.jpg);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.hero a {
+    background-color: #212f51;
+    padding: 5px 10px;
+    font-family: "Gilda Display", serif;
+    text-transform: uppercase;
+    font-size: 7px;
+    margin-top: 10px;
+}
+.welcome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    font-family: "gilda Display", serif;
+}
+h5 {
+    text-align: center;
+    padding: 5px;
+    font-family: "Gilda Display", serif;
+}
+.button-1 {
+    background-color: #212f51;
+    font-family: "Gilda Display", serif;
+    text-transform: uppercase;
+    font-size: 7px;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 10px;
+    border-style: solid;
+    border-color: #212f51;
+}
+
+.button-2 {
+    background-color: white;
+    font-family: "Gilda Display", serif;
+    text-transform: uppercase;
+    font-size: 7px;
+    color: #212f51;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 10px;
+    margin-bottom: 0;
+    border-style: solid;
+    border-color: #212f51;
+}
+
+hr {
+    margin: 20px;
+}
+
+.container {
+    align-content: center;
+}
+
+.image-a {
+    float: left;
+    
+}
+.image-b {
+    float:right;
+}
+.text-a {
+    text-align: right;
+}
+.text-b {
+    text-align: left;
+}
+.flex-container {
+    background-color: lightgray;
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
