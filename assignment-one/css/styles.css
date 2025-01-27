@@ -94,31 +94,34 @@ hr {
 }
 
 .container {
-    align-content: center;
+display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 20px
 }
 
-.image-a {
-    float: left;
-    
-}
-.image-b {
-    float:right;
-}
 .text-a {
     text-align: right;
 }
-.text-b {
-    text-align: left;
-}
+
 .flex-container {
-    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
     
+footer {
+    background-color: lightgray;
+}
+.footer-container {
+    padding: 10px;
+    align-items: center;
+}
     
-    
-    
-    
+h6 {
+    text-align: center;
+}
     
     
     
